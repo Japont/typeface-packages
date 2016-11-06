@@ -4,9 +4,9 @@ authors:
 website: http://ipafont.ipa.go.jp/
 source: http://dl.ipafont.ipa.go.jp/IPAexfont/IPAexfont00301.zip
 files:
-  - ipaexm.ttf
+  - '**/ipaexm.ttf'
 license:
   type: IPA
   files:
-    - IPA_Font_License_Agreement_v1.0.txt
+    - '**/IPA_Font_License_Agreement_v1.0.txt'
 alternate: IPAexMincho
