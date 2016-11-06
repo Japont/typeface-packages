@@ -1,0 +1,9 @@
+name: source-han-sans-cn
+authors:
+  - Adobe Systems Incorporated
+website: https://github.com/adobe-fonts/source-han-sans/tree/release
+source: https://github.com/adobe-fonts/source-han-sans/raw/release/SubsetOTF/SourceHanSansCN.zip
+license:
+  type: OFL-1.1
+  files:
+    - LICENSE.txt
