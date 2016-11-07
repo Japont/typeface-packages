@@ -1,0 +1,10 @@
+name: stealth-gothic
+authors:
+  - takumi
+website: http://slimedaisuki.blog9.fc2.com/
+source: http://jaist.dl.osdn.jp/users/11/11171/STEALTHGOTHIC20161020.zip
+license:
+  type: Other
+  files:
+    - '**/ReadMe.txt'
+    - '**/LICENSE*'
