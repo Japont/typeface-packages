@@ -1,0 +1,9 @@
+name: gyate-luminescence
+authors:
+  - マルセ / プロジェクトU-Fo
+website: http://marusexijaxs.web.fc2.com/
+source: http://marusexijaxs.web.fc2.com/gyate_luminescence_tte.zip
+license:
+  type: CC-BY-ND-4.0
+  files:
+    - '**/フォントのライセンスについて.txt'

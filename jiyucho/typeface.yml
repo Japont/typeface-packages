@@ -1,0 +1,9 @@
+name: jiyucho
+authors:
+  - マルセ / プロジェクトU-Fo
+website: http://marusexijaxs.web.fc2.com/
+source: http://marusexijaxs.web.fc2.com/jiyucho_tte.zip
+license:
+  type: CC-BY-ND-4.0
+  files:
+    - '**/フォントのライセンスについて.txt'
