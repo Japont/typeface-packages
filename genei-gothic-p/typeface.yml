@@ -1,0 +1,10 @@
+name: genei-gothic-p
+authors:
+  - おたもん
+website: http://okoneya.jp/font/
+source: http://okoneya.jp/font/GenEiGothicP-1.1.zip
+license:
+  type: OFL-1.1
+  files:
+    - '**/readme*'
+    - '**/LICENSE.txt'
