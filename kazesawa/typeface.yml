@@ -6,6 +6,6 @@ source: https://github.com/kazesawa/kazesawa/releases/download/alpha-v1/kazesawa
 files:
   - '**/Kazesawa-*.ttf'
 license:
-  type: Other
+  type: OFL-1.1
   files:
     - 'LICENSE.txt'
