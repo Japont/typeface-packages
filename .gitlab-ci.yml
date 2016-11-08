@@ -1,0 +1,7 @@
+stages:
+  - mirror
+
+job_git_mirror:
+  stage: mirror
+  script:
+    - git push --mirror $BITBUCKET_REPO
