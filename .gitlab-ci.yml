@@ -1,7 +1,12 @@
+image: alpine:latest
+
+before_script:
+  - apk --no-cache add git
+
 stages:
   - mirror
 
 job_git_mirror:
   stage: mirror
   script:
-    - git push --mirror $BITBUCKET_REPO
+    - git push --quiet --mirror $BITBUCKET_REPO 2> /dev/null
