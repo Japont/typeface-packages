@@ -2,7 +2,7 @@ name: hanazono-mincho-b
 authors:
   - GlyphWiki Project
 website: http://fonts.jp/hanazono/
-source: http://jaist.dl.osdn.jp/hanazono-font/64385/hanazono-20160201.zip
+sources: http://jaist.dl.osdn.jp/hanazono-font/64385/hanazono-20160201.zip
 files:
   - 'HanaMinB.ttf'
 license:

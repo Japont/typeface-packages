@@ -2,7 +2,7 @@ name: genei-latin
 authors:
   - おたもん
 website: http://okoneya.jp/font/
-source: http://okoneya.jp/font/GenEiLatin-1.0.zip
+sources: http://okoneya.jp/font/GenEiLatin-1.0.zip
 license:
   type: OFL-1.1
   files:

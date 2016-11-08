@@ -2,7 +2,7 @@ name: source-han-sans-kr
 authors:
   - Adobe Systems Incorporated
 website: https://github.com/adobe-fonts/source-han-sans/tree/release
-source: https://github.com/adobe-fonts/source-han-sans/raw/release/SubsetOTF/SourceHanSansKR.zip
+sources: https://github.com/adobe-fonts/source-han-sans/raw/release/SubsetOTF/SourceHanSansKR.zip
 license:
   type: OFL-1.1
   files:

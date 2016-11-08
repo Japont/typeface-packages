@@ -2,7 +2,7 @@ name: kazesawa
 authors:
   - polamjag
 website: https://kazesawa.github.io/
-source: https://github.com/kazesawa/kazesawa/releases/download/alpha-v1/kazesawa.zip
+sources: https://github.com/kazesawa/kazesawa/releases/download/alpha-v1/kazesawa.zip
 files:
   - '**/Kazesawa-*.ttf'
 license:

@@ -2,7 +2,7 @@ name: ipaex-gothic
 authors:
   - IPA 独立行政法人情報処理推進機構
 website: http://ipafont.ipa.go.jp/
-source: http://dl.ipafont.ipa.go.jp/IPAexfont/IPAexfont00301.zip
+sources: http://dl.ipafont.ipa.go.jp/IPAexfont/IPAexfont00301.zip
 files:
   - '**/ipaexg.ttf'
 license:

@@ -2,7 +2,7 @@ name: amemuchi-gothic
 authors:
   - takumi
 website: http://slimedaisuki.blog9.fc2.com/
-source: http://jaist.dl.osdn.jp/users/11/11239/AMEMUCHIGOTHIC20161105.zip
+sources: http://jaist.dl.osdn.jp/users/11/11239/AMEMUCHIGOTHIC20161105.zip
 files:
   - '**/amemuchigothic-*'
   - '**/amemuchigothicmono-*'
